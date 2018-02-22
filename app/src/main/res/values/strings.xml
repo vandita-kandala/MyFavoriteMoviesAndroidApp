@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Favorite Movies</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit"> Edit</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="show_list_by_year">Show List by Year</string>
+    <string name="show_list_by_rating">Show List by Rating</string>
+    <string name="title_year">Movies By year</string>
+    <string name="title_rate">Movies by Rating</string>
+    <string name="add_movie_2"> Add Movie</string>
+    <string name="onFinish"> Finish</string>
+    <string name="Update_movie"> Save Changes</string>
+    <string-array name="moviegenre">
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_edit_movie">Edit_movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

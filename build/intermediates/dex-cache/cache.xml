@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_51219d1f719d9c71691e06e28c29922887660b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eed0eb0d619465c1e21591f365bf237ecf43f3f">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36317db47fafadfa7a97fcf0bc98128506022f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_c63336faae951551807f76cae43059bcc52b501a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_5af1ab8653a864f0e46f7abeea777102f1ba10bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_d2abb93fb733ed0a96f2bcbabfcd07e649eada88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01aaee3a0e4255ffe18c0bd8b9eeba3b3a3fd139">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e0b26dc232c5d308e655cd1c3959dcecfd83c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_6200b1066592b4546c0e802f091ad21e85389535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_d72f396174dbd2ff94306e42ce59000843f6be37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_1c09d354efcaf2d2a62587b7fb3d102e68f63511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_5bea1aa723b697b6d9a5067f168481ee77ab76a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_ea9357c464c3a5f6f6338cab539d7b038444df89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vandita/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/vandita/AndroidStudioProjects/MyFavouriteMoviesFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_14a3fc1928c1eb921585ae81e01b26246a1dddba/classes.dex" />
+    </item>
+
+</items>
